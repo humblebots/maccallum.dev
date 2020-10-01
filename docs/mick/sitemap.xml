@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>/2018/05/29/welcome-to-jekyll.html</loc>
+<lastmod>2018-05-29T11:05:55-04:00</lastmod>
+</url>
+<url>
+<loc>/2018/05/29/style-guide.html</loc>
+<lastmod>2018-05-29T11:05:55-04:00</lastmod>
+</url>
+<url>
+<loc>/2018/09/15/last-weekend-with-friends.html</loc>
+<lastmod>2018-09-15T03:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>/2018/09/15/where-to-find-clients-for-freelancers.html</loc>
+<lastmod>2018-09-15T03:10:00-04:00</lastmod>
+</url>
+<url>
+<loc>/blog/</loc>
+</url>
+<url>
+<loc>/contact/</loc>
+</url>
+<url>
+<loc>/</loc>
+</url>
+<url>
+<loc>/work/</loc>
+</url>
+</urlset>
